@@ -36,3 +36,5 @@ g.	The relationship between casualties and area/location or day/night
 
 
 ![Alt Text](https://github.com/WinnieKiarago/Data-Analysis-and-Visualization-with-Excel/blob/main/visualizations/q42022.png)
+
+## For the full analysis, take a look at the https://github.com/WinnieKiarago/Data-Analysis-and-Visualization-with-Excel/blob/main/Road%20Accident%20Data.xlsx file. It contains the full report of the analysis I did.
