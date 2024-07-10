@@ -28,8 +28,6 @@ g.	The relationship between casualties and area/location or day/night
 
 ## Take a look at the final interactive dashboard
 
-![Alt Text](https://github.com/WinnieKiarago/Data-Analysis-and-Visualization-with-Excel/blob/main/visualizations/2021%20visualization.png)
-
 
 ![Alt Text](https://github.com/WinnieKiarago/Data-Analysis-and-Visualization-with-Excel/blob/main/visualizations/q32022.png)
 
